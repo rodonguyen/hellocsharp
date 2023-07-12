@@ -25,7 +25,7 @@ namespace Playing
             try
             {
                 int bigNumber = 1239;
-                byte s = (byte) bigNumber;
+                byte s = (byte)bigNumber;
                 byte x = Convert.ToByte(bigNumber);
                 Console.WriteLine(s);
                 Console.WriteLine(x);
